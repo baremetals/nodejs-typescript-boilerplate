@@ -1,0 +1,12 @@
+{
+  "files.exclude": {},
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.format": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "cSpell.words": ["tsbuildinfo", "undici"]
+}
